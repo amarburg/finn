@@ -1,0 +1,4 @@
+
+Finn::project("test") do |proj|
+
+end
